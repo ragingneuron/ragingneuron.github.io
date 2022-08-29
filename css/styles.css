@@ -11345,8 +11345,8 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .testimonials {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-top: 5rem;
+  padding-bottom: 0.5rem;
 }
 .testimonials .testimonial-item {
   max-width: 18rem;
